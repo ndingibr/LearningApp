@@ -92,7 +92,6 @@ namespace LearningApp.API
             var claims = new[]
             {
                     new Claim(JwtRegisteredClaimNames.Email, user.Email),
-                    //new Claim(ClaimTypes.Role, role.ToString())
              };
 
             var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_config["Tokens:Key"]));
