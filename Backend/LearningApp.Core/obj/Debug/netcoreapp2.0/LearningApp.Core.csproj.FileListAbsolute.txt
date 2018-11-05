@@ -1,0 +1,17 @@
+C:\Thesis\VisualStudio\LearningApp\LearningApp.Core\bin\Debug\netcoreapp2.0\LearningApp.Core.deps.json
+C:\Thesis\VisualStudio\LearningApp\LearningApp.Core\bin\Debug\netcoreapp2.0\LearningApp.Core.dll
+C:\Thesis\VisualStudio\LearningApp\LearningApp.Core\bin\Debug\netcoreapp2.0\LearningApp.Core.pdb
+C:\Thesis\VisualStudio\LearningApp\LearningApp.Core\obj\Debug\netcoreapp2.0\LearningApp.Core.csproj.CoreCompileInputs.cache
+C:\Thesis\VisualStudio\LearningApp\LearningApp.Core\obj\Debug\netcoreapp2.0\LearningApp.Core.AssemblyInfoInputs.cache
+C:\Thesis\VisualStudio\LearningApp\LearningApp.Core\obj\Debug\netcoreapp2.0\LearningApp.Core.AssemblyInfo.cs
+C:\Thesis\VisualStudio\LearningApp\LearningApp.Core\obj\Debug\netcoreapp2.0\LearningApp.Core.dll
+C:\Thesis\VisualStudio\LearningApp\LearningApp.Core\obj\Debug\netcoreapp2.0\LearningApp.Core.pdb
+C:\Thesis\VisualStudio\LearningApp\LearningApp.Core\obj\Debug\netcoreapp2.0\LearningApp.Core.csprojAssemblyReference.cache
+C:\Thesis\VisualStudio\LearningApp\Backend\LearningApp.Core\bin\Debug\netcoreapp2.0\LearningApp.Core.deps.json
+C:\Thesis\VisualStudio\LearningApp\Backend\LearningApp.Core\bin\Debug\netcoreapp2.0\LearningApp.Core.dll
+C:\Thesis\VisualStudio\LearningApp\Backend\LearningApp.Core\bin\Debug\netcoreapp2.0\LearningApp.Core.pdb
+C:\Thesis\VisualStudio\LearningApp\Backend\LearningApp.Core\obj\Debug\netcoreapp2.0\LearningApp.Core.csproj.CoreCompileInputs.cache
+C:\Thesis\VisualStudio\LearningApp\Backend\LearningApp.Core\obj\Debug\netcoreapp2.0\LearningApp.Core.AssemblyInfoInputs.cache
+C:\Thesis\VisualStudio\LearningApp\Backend\LearningApp.Core\obj\Debug\netcoreapp2.0\LearningApp.Core.AssemblyInfo.cs
+C:\Thesis\VisualStudio\LearningApp\Backend\LearningApp.Core\obj\Debug\netcoreapp2.0\LearningApp.Core.dll
+C:\Thesis\VisualStudio\LearningApp\Backend\LearningApp.Core\obj\Debug\netcoreapp2.0\LearningApp.Core.pdb
