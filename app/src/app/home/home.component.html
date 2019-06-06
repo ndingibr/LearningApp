@@ -1,0 +1,27 @@
+﻿<h1>Hi {{currentUser.firstName}}!</h1>
+<p>You're logged in with Angular 7!!</p>
+<h3>All registered users:</h3>
+<div class="card">
+    <div class="card-header">Hoverable rows</div>
+    <table class="card-body table table-hover">
+        <thead>
+        <tr>
+            <th>Date</th>
+            <th>Trade</th>
+            <th>RMSE</th>
+            <th>RSquared</th>
+            <th>Increase %</th>
+            <th>Increase % Actual</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr  *ngFor="let tradeIncrease of tradeIncreases">
+            <td>{{ tradeIncrease.date | date:'dd-MM-yy'}}</td>
+            <td>{{ tradeIncrease.trade }}</td>
+            <td>{{ tradeIncrease.rmse }}</td>
+            <td>{{ tradeIncrease.rSquared }}</td>
+            <td>{{ tradeIncrease.increase_Pecentage | number:'1.1-4'}}</td>
+            <td>{{ tradeIncrease.increase_PecentageActual}}</td> 
+        </tr>
+    </table>
+</div>
